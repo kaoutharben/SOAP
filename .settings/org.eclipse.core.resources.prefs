@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/webservices/NoSuchProductException.java=UTF-8
+encoding//src/main/java/webservices/Product.java=UTF-8
+encoding//src/main/java/webservices/ProductsManager.java=UTF-8
+encoding//src/main/java/webservices/ProductsManagerImplPortBindingStub.java=UTF-8
+encoding//src/main/java/webservices/ProductsManagerImplService.java=UTF-8
+encoding//src/main/java/webservices/ProductsManagerImplServiceLocator.java=UTF-8
+encoding//src/main/java/webservices/holders/ProductHolder.java=UTF-8
